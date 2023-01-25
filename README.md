@@ -12,4 +12,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 </ul>
 
 # Deployment
-Fell free to check: https://pathfinder.aelhaddadi.com/
+Check: https://pathfinder.aelhaddadi.com/
